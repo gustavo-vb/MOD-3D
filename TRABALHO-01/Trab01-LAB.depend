@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1727266140 source:c:\users\inss\documents\github\modelagem3d\modelagem-3d\202409trab01-lab\trab01-lab\trab01-lab\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1727261451 c:\users\inss\documents\github\modelagem3d\modelagem-3d\necessidades\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1727261451 c:\users\inss\documents\github\modelagem3d\modelagem-3d\necessidades\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1727311862 source:c:\users\1537676.pucminas\documents\github\modelagem3d\modelagem-3d\202409trab01-lab\trab01-lab\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1727791082 source:c:\users\inss\documents\github\modelagem3d\modelagem-3d\202409trab01-lab\trab01-lab\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1728522515 source:c:\users\1537676\documents\github\modelagem3d\modelagem-3d\20240902-mensagem-texto-fonte\animacao-quadrado\main.cpp
+	<windows.h>
+	<GL/freeglut.h>
+	<stdio.h>
+
+1728518742 c:\users\1537676\documents\github\modelagem3d\modelagem-3d\necessidades\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1728518742 c:\users\1537676\documents\github\modelagem3d\modelagem-3d\necessidades\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1728518742 c:\users\1537676\documents\github\modelagem3d\modelagem-3d\necessidades\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+

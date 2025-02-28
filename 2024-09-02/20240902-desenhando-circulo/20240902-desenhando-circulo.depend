@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1728521254 source:c:\users\1537676\documents\github\modelagem3d\modelagem-3d\20240902-mensagem-texto-fonte\20240902-desenhando-circulo\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<math.h>
+
+1728518742 c:\users\1537676\documents\github\modelagem3d\modelagem-3d\necessidades\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1728518742 c:\users\1537676\documents\github\modelagem3d\modelagem-3d\necessidades\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+

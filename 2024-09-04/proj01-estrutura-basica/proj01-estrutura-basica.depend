@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1584205426 source:c:\users\1537676\documents\github\mod3d\20240904-estrutura-basica\proj01-estrutura-basica\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1725496088 c:\users\1537676\documents\github\mod3d\20240904-estrutura-basica\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1725496088 c:\users\1537676\documents\github\mod3d\20240904-estrutura-basica\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1725627092 source:c:\users\inss\documents\github\mod3d\20240904-estrutura-basica\proj01-estrutura-basica\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1726100646 source:c:\users\1537676.pucminas\documents\github\my-puc-files\modelagem-3d\20240904-estrutura-basica\proj01-estrutura-basica\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+

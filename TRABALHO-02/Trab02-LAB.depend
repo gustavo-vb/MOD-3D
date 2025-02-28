@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1730376995 source:c:\users\inss\desktop\trab02-lab\main.cpp
+	<GLUT/freeglut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1727261451 c:\users\inss\documents\github\modelagem3d\modelagem-3d\necessidades\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1727261451 c:\users\inss\documents\github\modelagem3d\modelagem-3d\necessidades\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1731321299 source:c:\users\inss\documents\github\modelagem3d\modelagem-3d\202411trab02-lab\trab02-lab\main.cpp
+	<GLUT/freeglut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<cmath>
+	<process.h>
+
+1731288385 source:c:\users\gustavo vilas boas\documents\github\modelagem3d\modelagem-3d\202411trab02-lab\trab02-lab\main.cpp
+	<GLUT/freeglut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<cmath>
+
+1731103615 source:c:\users\1537676.pucminas.000\documents\github\modelagem3d\modelagem-3d\202411trab02-lab\trab02-lab\main.cpp
+	<GLUT/freeglut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<cmath>
+	<process.h>
+

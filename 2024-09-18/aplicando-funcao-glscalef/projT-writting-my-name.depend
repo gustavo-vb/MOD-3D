@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1725630685 source:c:\users\inss\documents\github\mod3d\20240906-projt-writting-my-name\projt-writting-my-name\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1725627092 c:\users\inss\documents\github\mod3d\necessidades\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1725627092 c:\users\inss\documents\github\mod3d\necessidades\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1726099802 source:c:\users\1537676.pucminas\documents\github\mod3d\20240906-projt-writting-my-name\projt-writting-my-name\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1726703810 source:c:\users\1537676.pucminas\documents\github\my-puc-files\modelagem-3d\20240906-projt-writting-my-name\projt-writting-my-name\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1726708872 source:c:\users\1537676.pucminas\documents\github\my-puc-files\modelagem-3d\20240918-aplicando-funcao-glscalef\aplicando-funcao-glscalef\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
